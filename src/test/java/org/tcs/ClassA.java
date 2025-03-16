@@ -10,4 +10,10 @@ System.out.println("vivo");
 private void oppo() {
 System.out.println("oppo");
 }
+private void tam() {
+System.out.println("Tamil");
+}
+private void eng() {
+System.out.println("English");
+}
 }
