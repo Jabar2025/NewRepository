@@ -16,4 +16,16 @@ System.out.println("Tamil");
 private void eng() {
 System.out.println("English");
 }
+private void apple() {
+System.out.println("ios");
+}
+private void asus() {
+System.out.println("Asus");
+}
+private void samsung() {
+System.out.println("Asus");
+
+
+
+}
 }
