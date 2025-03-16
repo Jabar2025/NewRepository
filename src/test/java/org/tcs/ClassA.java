@@ -10,4 +10,13 @@ System.out.println("vivo");
 private void oppo() {
 System.out.println("oppo");
 }
+private void apple() {
+System.out.println("ios");
+}
+private void asus() {
+System.out.println("Asus");
+}
+private void samsung() {
+System.out.println("Asus");
+}
 }
